@@ -1,5 +1,5 @@
 FROM node:18-alpine
-#testeo pipelines
+#testeo pipeliness
 
 WORKDIR /app
 
